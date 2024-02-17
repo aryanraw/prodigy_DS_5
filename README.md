@@ -45,4 +45,4 @@ To replicate the analysis:
 
 ## Contributors
 
-- [aryanraw](https://github.com/aryanraw)
+- Aryan Singh Rawat [aryanraw](https://github.com/aryanraw)
