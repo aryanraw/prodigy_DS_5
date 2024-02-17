@@ -48,4 +48,4 @@ To replicate the analysis:
 
 ## Contributors
 
-- [Your Name](https://github.com/aryanraw)
+- [aryanraw](https://github.com/aryanraw)
